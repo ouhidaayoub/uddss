@@ -1,0 +1,39 @@
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# IDE
+
+.vscode/
+.idea/
+
+# Java
+
+*.class
+target/
+
+# Logs
+
+*.log
+
+# Operating System
+
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Local databases and backups
+
+*.sql
+*.bak
+
+# Temporary files
+
+tmp/
+temp/
+
+# Local-only directories and files
+
+untracked/
