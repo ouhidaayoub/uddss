@@ -24,6 +24,7 @@ The documentation is organized by domain so that related artifacts remain togeth
 - `CONTRIBUTING.md`
 - `docs/repository/BRANCH_RULES.md`
 - `.github/PULL_REQUEST_TEMPLATE.md`
+- `CODE_OF_CONDUCT.md`
 
 ---
 
