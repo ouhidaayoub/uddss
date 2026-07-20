@@ -54,7 +54,15 @@ The documentation is organized by domain so that related artifacts remain togeth
 
 ## Architecture
 
-Documentation will be added as the architecture is designed.
+- `docs/architecture/diagrams/C4/Context/UDDSS Diagram-C4 Context.png`
+- `docs/architecture/diagrams/C4/Context/UDDSS Diagram-C4 Context.jpg`
+- `docs/architecture/diagrams/C4/Context/UDDSS Diagram-C4 Context.svg`
+
+- `docs/architecture/diagrams/C4/Container/UDDSS Diagram-C4 Container.png`
+- `docs/architecture/diagrams/C4/Container/UDDSS Diagram-C4 Container.jpg`
+- `docs/architecture/diagrams/C4/Container/UDDSS Diagram-C4 Container.svg`
+
+Component and Code level diagrams will be added once detailed design reaches that level of detail.
 
 ---
 

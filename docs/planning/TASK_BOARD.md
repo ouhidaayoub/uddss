@@ -12,7 +12,7 @@ The board will be updated throughout the project instead of creating a new one f
 
 ## To Do
 
-- [ ] Start the Architecture phase.
+- [ ] Write ADRs for the architecture decisions made so far.
 - [ ] Design the software architecture.
 - [ ] Design the database.
 - [ ] Define the testing strategy.
@@ -21,7 +21,7 @@ The board will be updated throughout the project instead of creating a new one f
 
 ## Doing
 
-- None.
+- [ ] Complete the detailed design (UML diagrams, database ERD).
 
 ---
 
@@ -39,3 +39,6 @@ The board will be updated throughout the project instead of creating a new one f
 - [x] Create the roadmap.
 - [x] Identify the project risks.
 - [x] Complete the analysis phase (satisfied by the requirements, user stories, and abuse cases already written).
+- [x] Pick the architecture style.
+- [x] Draw the C4 Context diagram.
+- [x] Draw the C4 Container diagram.
