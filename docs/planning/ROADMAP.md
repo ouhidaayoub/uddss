@@ -106,3 +106,5 @@ Version 1.0 will be considered complete when:
 ## Future Versions
 
 After Version 1.0, the project will continue through incremental releases. New functionality and improvements will be added without changing the objectives of Version 1.0.
+
+Remote access to the system from outside the department network is planned as a future enhancement, once the local version is stable and proven.
