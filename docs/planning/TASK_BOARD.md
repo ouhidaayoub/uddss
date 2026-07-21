@@ -12,7 +12,7 @@ The board will be updated throughout the project instead of creating a new one f
 
 ## To Do
 
-- [ ] Write ADRs for the architecture decisions made so far.
+- [ ] Complete the detailed design (UML diagrams, database ERD).
 - [ ] Design the software architecture.
 - [ ] Design the database.
 - [ ] Define the testing strategy.
@@ -21,7 +21,7 @@ The board will be updated throughout the project instead of creating a new one f
 
 ## Doing
 
-- [ ] Complete the detailed design (UML diagrams, database ERD).
+- [ ] Write ADRs for the architecture decisions made so far.
 
 ---
 
