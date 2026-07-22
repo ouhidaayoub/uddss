@@ -80,4 +80,9 @@ Documentation will be added as the testing strategy is developed.
 
 ## Architecture Decision Records
 
-Architecture Decision Records (ADRs) will be added as important engineering decisions are made during the project.
+- `docs/adr/0001-TECHNOLOGY-STACK.md`
+- `docs/adr/0002-MULTI-CLIENT-ARCHITECTURE.md`
+- `docs/adr/0003-CLEAN-ARCHITECTURE.md`
+- `docs/adr/0004-BUSINESS-RULES-SERVER-ONLY.md`
+- `docs/adr/0005-HTTP-COMMUNICATION.md`
+- `docs/adr/0006-LOCAL-SERVER-DEPLOYMENT.md`
