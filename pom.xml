@@ -8,38 +8,23 @@
     <groupId>dz.ouhidaayoub</groupId>
     <artifactId>uddss</artifactId>
     <version>0.1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <name>UDDSS</name>
     <description>University Department Decision-Support System</description>
 
+    <modules>
+        <module>uddss-client</module>
+        <module>uddss-server</module>
+    </modules>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
         <maven.compiler.release>21</maven.compiler.release>
 
-        <javafx.version>21.0.7</javafx.version>
         <junit.version>5.13.4</junit.version>
-
         <maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
-        <javafx.maven.plugin.version>0.0.8</javafx.maven.plugin.version>
     </properties>
-
-    <dependencies>
-
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>${javafx.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
-        </dependency>
-
-    </dependencies>
 
     <build>
         <plugins>
@@ -48,18 +33,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>${maven.compiler.plugin.version}</version>
-            </plugin>
-
-            <plugin>
-                <groupId>org.openjfx</groupId>
-                <artifactId>javafx-maven-plugin</artifactId>
-                <version>${javafx.maven.plugin.version}</version>
-
-                <configuration>
-                    <mainClass>
-                        dz.ouhidaayoub.uddss.UddssApplication
-                    </mainClass>
-                </configuration>
             </plugin>
 
         </plugins>
