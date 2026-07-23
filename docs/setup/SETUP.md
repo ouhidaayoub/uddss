@@ -758,7 +758,7 @@ mvn clean install
 **Step 4: Run**
 
 ```bash
-mvn javafx:run
+mvn javafx:run -pl uddss-client
 ```
 
 Should open the JavaFX window directly.
