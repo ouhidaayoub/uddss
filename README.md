@@ -16,7 +16,20 @@ This project started as a multidisciplinary project proposed by the department h
 
 ## Documentation
 
+The project documentation is organized inside the `docs` directory. Important starting points:
+
+- [Vision](docs/vision/)
+- [Setup](docs/setup/)
+- [Requirements](docs/requirements/)
+- [Architecture](docs/architecture/)
+- Database (documentation will be added once the database is designed)
+- [ADRs](docs/adr/) (Architecture Decision Records)
+
 Full project documentation starts at [`docs/DOCUMENTATION.md`](docs/DOCUMENTATION.md).
+
+## Development
+
+See [`docs/setup/SETUP.md`](docs/setup/SETUP.md) and [`CONTRIBUTING.md`](CONTRIBUTING.md) for development instructions and the project workflow.
 
 ## Goals
 
@@ -32,7 +45,7 @@ The first changelog entry will be created when UDDSS reaches its first official 
 
 Until then, the project's development history can be followed through the Git commit history.
 
-See the `CHANGELOG` file for details.
+See the [`CHANGELOG`](CHANGELOG.md) file for details.
 
 ## Contributing
 
@@ -42,13 +55,13 @@ At the current stage of development, the project is maintained by a single contr
 
 As UDDSS evolves, this document will be expanded to include the complete contribution workflow, coding standards, review process, branching strategy, issue reporting guidelines, and other information for future contributors.
 
-See the `CONTRIBUTING` file for details.
+See the [`CONTRIBUTING`](CONTRIBUTING.md) file for details.
 
 ## License
 
 This project is licensed under the ![License: MIT License](https://img.shields.io/badge/License-mit-blue.svg). 
 
-See the `LICENSE` file for details.
+See the [`LICENSE`](LICENSE.md) file for details.
 
 ## About This README
 
