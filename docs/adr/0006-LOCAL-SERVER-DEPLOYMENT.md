@@ -35,4 +35,4 @@ The server runs locally only, for this version. It lives on an existing staff co
 
 **A small dedicated device instead of a staff computer.** Also real, and possibly better long-term, since it wouldn't be tied to someone's daily use. Noted as a future improvement, not blocking this version.
 
-Remote access is a real, deferred idea. It's now written down in `ROADMAP.md`'s Future Versions section, so it isn't lost.
+Remote access is a real, deferred idea. It's now written down in [`ROADMAP.md`](../planning/ROADMAP.md)'s Future Versions section, so it isn't lost.

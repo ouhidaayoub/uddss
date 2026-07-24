@@ -18,7 +18,7 @@ I'm using Java 21, the long-term-support version, JavaFX to build the screens, M
 
 **The good parts**
 
-- Java runs the same way on Windows, Mac, and Linux. That matters, since `SETUP.md` says this should work on all of them.
+- Java runs the same way on Windows, Mac, and Linux. That matters, since [`SETUP.md`](../setup/SETUP.md) says this should work on all of them.
 - JavaFX comes built into Java already, so I don't need a whole separate UI framework on top.
 - Maven is used by a lot of people, so if I get stuck, it's easy to find help online.
 - MariaDB is free, open source, and works almost exactly like MySQL, so there's plenty of help out there for it too.
