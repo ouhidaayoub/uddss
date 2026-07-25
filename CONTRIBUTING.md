@@ -67,3 +67,9 @@ This is the project's Definition of Done. Before merging a Pull Request:
 * Security has been considered, no obvious new risk introduced.
 * Documentation has been updated if necessary.
 * The Pull Request description is complete.
+
+## Engineering Decisions
+
+Important technical decisions should be documented using ADRs located in [`docs/adr/`](docs/adr/).
+
+Future contributors should consult existing ADRs before introducing major changes.
