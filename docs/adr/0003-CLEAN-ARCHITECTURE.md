@@ -8,7 +8,7 @@ Accepted
 
 Once I decided the Application Server holds every real business rule, I needed to actually pick how to organize the code inside it. My own Part D page from my SOFTWARE ENGINEERING FINGERPRINT Notion file laid out a few real options: a simple Layered style, or one of 3 "domain-centric" styles (Hexagonal, Onion, Clean Architecture), which all share the same core idea, keep the real logic in the middle, keep the database and screens on the outside.
 
-I went through real examples for both, using `FR-010`, graduation stats, as the test case. The big difference that actually mattered to me: with a domain-centric style, I can test my actual logic without needing a real database running at all. With Layered, most tests would still need MariaDB connected.
+I went through real examples for both, using [`FR-010`](../requirements/REQUIREMENTS.md#fr-010-graduation), graduation stats, as the test case. The big difference that actually mattered to me: with a domain-centric style, I can test my actual logic without needing a real database running at all. With Layered, most tests would still need MariaDB connected.
 
 ## Decision
 

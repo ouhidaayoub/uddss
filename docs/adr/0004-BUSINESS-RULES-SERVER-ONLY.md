@@ -10,9 +10,9 @@ Once I decided on the multi-client setup with a central server, and Clean Archit
 
 I went through 3 real examples from my own docs to actually test this, not just guess:
 
-- `US-001`, signing in. Checking if a password is actually correct always needs the server, no way around it.
-- `FR-018`, restricted information. If the app tried to hide things itself, based on its own copy of the rules, and the real rule ever changed, I'd have to update it in 2 places, the server and the app, and if I forgot one, they'd quietly disagree.
-- `FR-006`, only one import at a time. The app on one computer has no way of knowing what's happening on a different computer. Only the server can actually know that.
+- [`US-001`](../requirements/USER_STORIES.md#us-001-sign-in), signing in. Checking if a password is actually correct always needs the server, no way around it.
+- [`FR-018`](../requirements/REQUIREMENTS.md#fr-018-restricted-information-presentation), restricted information. If the app tried to hide things itself, based on its own copy of the rules, and the real rule ever changed, I'd have to update it in 2 places, the server and the app, and if I forgot one, they'd quietly disagree.
+- [`FR-006`](../requirements/REQUIREMENTS.md#fr-006-import-session-control), only one import at a time. The app on one computer has no way of knowing what's happening on a different computer. Only the server can actually know that.
 
 All 3 pointed the same way.
 

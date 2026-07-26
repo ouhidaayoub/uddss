@@ -8,7 +8,7 @@ Accepted
 
 Once I knew the app and the server are 2 separate programs, I needed to decide how they'd actually talk to each other over the network. I looked at 2 real options: plain sockets, where I invent my own message format myself, or HTTP, the same standard format real websites already use.
 
-I wrote out real code for both, using `FR-008`, academic progression stats, as the test case. With sockets, I had to invent my own reply format, then write code just to split it back apart on the other side. With HTTP, the reply was already real, standard JSON, nothing invented, nothing to undo.
+I wrote out real code for both, using [`FR-008`](../requirements/REQUIREMENTS.md#fr-008-academic-progression), academic progression stats, as the test case. With sockets, I had to invent my own reply format, then write code just to split it back apart on the other side. With HTTP, the reply was already real, standard JSON, nothing invented, nothing to undo.
 
 ## Decision
 

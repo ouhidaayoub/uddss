@@ -8,7 +8,7 @@ Accepted
 
 More than one person needs to use UDDSS at the same time, on different computers. My own [`STAKEHOLDERS.md`](../requirements/STAKEHOLDERS.md) already lists 5 different roles who need to touch the system directly.
 
-I also already wrote `FR-006`: only one import can run at a time, anywhere. If every computer talked straight to the database on its own, nothing would actually know if another computer was already importing something. There'd be no way to enforce that rule at all.
+I also already wrote [`FR-006`](../requirements/REQUIREMENTS.md#fr-006-import-session-control): only one import can run at a time, anywhere. If every computer talked straight to the database on its own, nothing would actually know if another computer was already importing something. There'd be no way to enforce that rule at all.
 
 ## Decision
 
@@ -18,7 +18,7 @@ Each staff computer runs the JavaFX app. None of these apps talk to the database
 
 **The good parts**
 
-- `FR-006` actually becomes possible to enforce, since one server can see everything happening, everywhere, at once.
+- [`FR-006`](../requirements/REQUIREMENTS.md#fr-006-import-session-control) actually becomes possible to enforce, since one server can see everything happening, everywhere, at once.
 - All the real rules live in one place, not copied across 5 different computers.
 - Only one machine ever needs to know the real database password, not every single staff computer.
 

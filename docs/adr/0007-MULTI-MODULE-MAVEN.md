@@ -29,4 +29,4 @@ One repository, one parent `pom.xml`, with 2 real Maven modules underneath it, `
 
 **2 completely separate repositories.** Would mean either Git submodules or manually keeping 2 projects in sync by hand, real, ongoing overhead for a solo project, with no real benefit for something this size.
 
-**Keep everything in one single module.** Would mean JavaFX, a dependency the Server never needs, sitting inside the same module as the Server's own code, mixing 2 genuinely different programs together, and matching the multi-client architecture already decided in `ADR-0002` much less honestly.
+**Keep everything in one single module.** Would mean JavaFX, a dependency the Server never needs, sitting inside the same module as the Server's own code, mixing 2 genuinely different programs together, and matching the multi-client architecture already decided in [`ADR-0002`](0002-MULTI-CLIENT-ARCHITECTURE.md) much less honestly.

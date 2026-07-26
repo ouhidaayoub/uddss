@@ -8,7 +8,7 @@ Accepted
 
 Before I wrote any real code, I had to pick a language, a way to build the screens, a build tool, and a database. This happened really early, honestly before I even set up this whole structured process I use now. So let me be upfront: I didn't sit down and compare a bunch of options side by side. I just went with what I already knew, and what made sense for what the project actually needed.
 
-The app has to run as a desktop program, without needing the internet (that's `NFR-003`), on computers inside a university department.
+The app has to run as a desktop program, without needing the internet (that's [`NFR-003`](../requirements/REQUIREMENTS.md#nfr-003-system-availability)), on computers inside a university department.
 
 ## Decision
 
