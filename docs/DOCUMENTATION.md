@@ -54,8 +54,6 @@ The documentation is organized by domain so that related artifacts remain togeth
 
 ## Architecture
 
-## Architecture
-
 - [`C4 Context (png)`](architecture/diagrams/C4/Context/UDDSS%20Diagram-C4%20Context.png)
 - [`C4 Context (jpg)`](architecture/diagrams/C4/Context/UDDSS%20Diagram-C4%20Context.jpg)
 - [`C4 Context (svg)`](architecture/diagrams/C4/Context/UDDSS%20Diagram-C4%20Context.svg)
@@ -64,38 +62,51 @@ The documentation is organized by domain so that related artifacts remain togeth
 - [`C4 Container (jpg)`](architecture/diagrams/C4/Container/UDDSS%20Diagram-C4%20Container.jpg)
 - [`C4 Container (svg)`](architecture/diagrams/C4/Container/UDDSS%20Diagram-C4%20Container.svg)
 
-Component and Code level C4 diagrams, plus Sequence and Communication UML diagrams, will be added as detailed design continues.
-
 - [`UML Use Case (png)`](architecture/diagrams/UML/Use%20Case/UDDSS%20Diagram-UML%20Use%20Case.png)
 - [`UML Use Case (jpg)`](architecture/diagrams/UML/Use%20Case/UDDSS%20Diagram-UML%20Use%20Case.jpg)
 - [`UML Use Case (svg)`](architecture/diagrams/UML/Use%20Case/UDDSS%20Diagram-UML%20Use%20Case.svg)
 
 - [`UML Class, Academic Structure (png)`](architecture/diagrams/UML/Class/Academic%20Structure/UDDSS%20Diagram-UML%20Class%20Diagram%20(Academic%20Structure).png)
+- [`UML Class, Academic Structure (jpg)`](architecture/diagrams/UML/Class/Academic%20Structure/UDDSS%20Diagram-UML%20Class%20Diagram%20(Academic%20Structure).jpg)
 - [`UML Class, Academic Structure (svg)`](architecture/diagrams/UML/Class/Academic%20Structure/UDDSS%20Diagram-UML%20Class%20Diagram%20(Academic%20Structure).svg)
 
 - [`UML Class, Identity & Access (png)`](architecture/diagrams/UML/Class/Identity%20&%20Access/UDDSS%20Diagram-UML%20Class%20Diagram%20(Identity%20&%20Access).png)
+- [`UML Class, Identity & Access (jpg)`](architecture/diagrams/UML/Class/Identity%20&%20Access/UDDSS%20Diagram-UML%20Class%20Diagram%20(Identity%20&%20Access).jpg)
 - [`UML Class, Identity & Access (svg)`](architecture/diagrams/UML/Class/Identity%20&%20Access/UDDSS%20Diagram-UML%20Class%20Diagram%20(Identity%20&%20Access).svg)
 
 - [`UML Class, Data Import (png)`](architecture/diagrams/UML/Class/Data%20Import/UDDSS%20Diagram-UML%20Class%20Diagram%20(Data%20Import).png)
+- [`UML Class, Data Import (jpg)`](architecture/diagrams/UML/Class/Data%20Import/UDDSS%20Diagram-UML%20Class%20Diagram%20(Data%20Import).jpg)
 - [`UML Class, Data Import (svg)`](architecture/diagrams/UML/Class/Data%20Import/UDDSS%20Diagram-UML%20Class%20Diagram%20(Data%20Import).svg)
 
 - [`UML Class, Statistics & Records (png)`](architecture/diagrams/UML/Class/Statistics%20&%20Records/UDDSS%20Diagram-UML%20Class%20Diagram%20(Statistics%20&%20Records).png)
+- [`UML Class, Statistics & Records (jpg)`](architecture/diagrams/UML/Class/Statistics%20&%20Records/UDDSS%20Diagram-UML%20Class%20Diagram%20(Statistics%20&%20Records).jpg)
 - [`UML Class, Statistics & Records (svg)`](architecture/diagrams/UML/Class/Statistics%20&%20Records/UDDSS%20Diagram-UML%20Class%20Diagram%20(Statistics%20&%20Records).svg)
 
 - [`UML Class, System Operations (png)`](architecture/diagrams/UML/Class/System%20Operations/UDDSS%20Diagram-UML%20Class%20Diagram%20(System%20Operations).png)
+- [`UML Class, System Operations (jpg)`](architecture/diagrams/UML/Class/System%20Operations/UDDSS%20Diagram-UML%20Class%20Diagram%20(System%20Operations).jpg)
 - [`UML Class, System Operations (svg)`](architecture/diagrams/UML/Class/System%20Operations/UDDSS%20Diagram-UML%20Class%20Diagram%20(System%20Operations).svg)
 
 - [`UML Object, Scenario 1 (png)`](architecture/diagrams/UML/Object/Scenario%201/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%201).png)
+- [`UML Object, Scenario 1 (jpg)`](architecture/diagrams/UML/Object/Scenario%201/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%201).jpg)
 - [`UML Object, Scenario 1 (svg)`](architecture/diagrams/UML/Object/Scenario%201/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%201).svg)
 
 - [`UML Object, Scenario 2 (png)`](architecture/diagrams/UML/Object/Scenario%202/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%202).png)
+- [`UML Object, Scenario 2 (jpg)`](architecture/diagrams/UML/Object/Scenario%202/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%202).jpg)
 - [`UML Object, Scenario 2 (svg)`](architecture/diagrams/UML/Object/Scenario%202/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%202).svg)
 
 - [`UML Object, Scenario 3 (png)`](architecture/diagrams/UML/Object/Scenario%203/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%203).png)
+- [`UML Object, Scenario 3 (jpg)`](architecture/diagrams/UML/Object/Scenario%203/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%203).jpg)
 - [`UML Object, Scenario 3 (svg)`](architecture/diagrams/UML/Object/Scenario%203/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%203).svg)
 
 - [`UML Object, Scenario 4 (png)`](architecture/diagrams/UML/Object/Scenario%204/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%204).png)
+- [`UML Object, Scenario 4 (jpg)`](architecture/diagrams/UML/Object/Scenario%204/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%204).jpg)
 - [`UML Object, Scenario 4 (svg)`](architecture/diagrams/UML/Object/Scenario%204/UDDSS%20Diagram-UML%20Object%20Diagram%20(Scenario%204).svg)
+
+- [`UML Sequence, Sign In (png)`](architecture/diagrams/UML/Sequence/Sign%20In/UDDSS%20Diagram-UML%20Sequence%20Diagram%20(Sign%20In).png)
+- [`UML Sequence, Sign In (jpg)`](architecture/diagrams/UML/Sequence/Sign%20In/UDDSS%20Diagram-UML%20Sequence%20Diagram%20(Sign%20In).jpg)
+- [`UML Sequence, Sign In (svg)`](architecture/diagrams/UML/Sequence/Sign%20In/UDDSS%20Diagram-UML%20Sequence%20Diagram%20(Sign%20In).svg)
+
+Component and Code level C4 diagrams, plus the remaining Sequence and Communication UML diagrams, will be added as detailed design continues.
 
 ---
 
