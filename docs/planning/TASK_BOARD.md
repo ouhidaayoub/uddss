@@ -12,15 +12,16 @@ The board will be updated throughout the project instead of creating a new one f
 
 ## To Do
 
-- [ ] Design the software architecture.
+
 - [ ] Design the database.
 - [ ] Define the testing strategy.
+- [ ] Add AuthService (with authenticate) to the Identity & Access class diagram (revealed by the Sign In sequence diagram).
 
 ---
 
 ## Doing
 
-- [ ] Complete the detailed design (UML diagrams, database ERD).
+- [ ] Draw the remaining UML diagrams (Sequence, Communication).
 
 ---
 
@@ -42,3 +43,7 @@ The board will be updated throughout the project instead of creating a new one f
 - [x] Draw the C4 Context diagram.
 - [x] Draw the C4 Container diagram.
 - [x] Write ADRs for the architecture decisions made so far.
+- [x] Design the software architecture.
+- [x] Draw the Use Case diagram.
+- [x] Draw all five Class Diagram modules.
+- [x] Draw the Object Diagram (4 scenarios).
